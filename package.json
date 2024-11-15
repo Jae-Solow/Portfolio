@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jae-solow.github.io/Protfolio/",
+  "homepage": "https://Jae-Solow.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
